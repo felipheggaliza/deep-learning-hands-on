@@ -13,7 +13,7 @@ Requisitos principais:
 
 3. Abrir o Git Shell e executar o seguinte comando:
 ```
-git clone git@github.com:felipheggaliza/keras-facenet.git
+git clone git@github.com:felipheggaliza/deep-learning-hands-on.git
 ```
 4. Faça o download do arquivo facenet_keras.h5 através do [link](https://drive.google.com/open?id=1PZ_6Zsy1Vb0s0JmjEmVd8FS99zoMCiN1) 
 
